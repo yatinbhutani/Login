@@ -18,7 +18,7 @@ public class DataBase {
     final String URL = "sql8.freemysqlhosting.net";
     final String n_db = "sql8116404";
     final String user = "sql8116404";
-    final String pass = "5XQVIzwSHy";
+    final String pass = "5XQVIzwSH"; // mer naam da pehla akshar end te!
     // DEFINISCO DELLE VARIABILI DI TIPO CONNESSIONE, STATEMENT E RISULTATO
     private Connection con = null;
     private Statement st = null;
